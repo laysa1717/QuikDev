@@ -1,0 +1,40 @@
+{
+  "name": "quikdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laysa1717/QuikDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laysa1717/QuikDev/issues"
+  },
+  "homepage": "https://github.com/laysa1717/QuikDev#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "passport": "^0.4.1",
+    "passport-bearer-strategy": "^1.0.1",
+    "passport-http-bearer": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.25.3",
+    "sequelize-cli": "^6.5.2",
+    "start": "^5.1.0"
+  }
+}
