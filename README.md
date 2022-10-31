@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - Nodejs, Express, Sequelize, MySQL
 
-## :link: Rodan o código
+## :link: Rodando o código
 
 - Clone em sua maquina local, o repositorio do git.
 - Importe o banco de dados no workbench
